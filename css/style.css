@@ -1,5 +1,7 @@
 
 /* Font Google - strong reaload time */
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");
+
 @import url(http://fonts.googleapis.com/css?family=Lato:400,300,100,700,900&subset=latin,latin-ext);
 
 .preloader{
@@ -881,6 +883,15 @@ input.submit{
   position:relative;  
 }
 
+.footer .menu-footer .icon {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-size: 20px;
+  font-weight: normal;
+  text-transform: none !important;
+}
 
 .footer .menu-footer a{
   line-height:46px;
