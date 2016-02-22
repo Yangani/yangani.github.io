@@ -1,5 +1,9 @@
-#Experimental Personal Website
+#Personal Website
 
-using soundcloud API
+Personal website for my portfolio
+
+*Showcase my porfolio
+*My skills
+*Contact information
 
 ###Under construction...
