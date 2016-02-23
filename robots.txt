@@ -1,5 +1,5 @@
 # www.robotstxt.org/
 
-# All web crawling of all web contents
+# Allow crawling of all website content
 User-agent: *
 Disallow:
